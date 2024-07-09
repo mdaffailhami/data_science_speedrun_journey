@@ -9,3 +9,7 @@ I'm embarking on a rapid learning journey through data science concepts and tech
 ## Resources
 
 - **Course:** [Edureka's Data Science Full Course - 12 Hours](https://www.youtube.com/live/xiEC5oFsq2s?si=XvMpLoVsGGT80Qq6)
+  
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
