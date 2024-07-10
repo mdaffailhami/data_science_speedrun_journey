@@ -1,6 +1,6 @@
 # Daffa's Data Science Speedrun Journey
 
-This repository contains notebooks and projects related to my data science speedrun journey, inspired by Edureka's Course on data science.
+This repository contains notebooks and projects related to my data science speedrun journey.
 
 ## About
 
