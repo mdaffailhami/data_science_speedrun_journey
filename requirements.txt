@@ -30,5 +30,6 @@ tornado==6.4.1
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
+-e git+https://github.com/mdaffailhami/data_science_speedrun_journey.git@f5dc4357069d483689275b5bb31ac00f391f838e#egg=utils&subdirectory=utils
 Wand==0.6.13
 wcwidth==0.2.13
