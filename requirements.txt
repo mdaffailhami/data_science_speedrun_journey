@@ -18,6 +18,7 @@ pexpect==4.9.0
 platformdirs==4.2.2
 prompt_toolkit==3.0.47
 psutil==6.0.0
+psycopg==3.2.1
 ptyprocess==0.7.0
 pure-eval==0.2.2
 Pygments==2.18.0
@@ -30,6 +31,6 @@ tornado==6.4.1
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
--e git+https://github.com/mdaffailhami/data_science_speedrun_journey.git@f5dc4357069d483689275b5bb31ac00f391f838e#egg=utils&subdirectory=utils
+-e git+https://github.com/mdaffailhami/data_science_speedrun_journey.git@7820f41974ea42d483f6c2173c99087717d0f845#egg=utils&subdirectory=utils
 Wand==0.6.13
 wcwidth==0.2.13
