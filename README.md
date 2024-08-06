@@ -8,6 +8,7 @@ I'm embarking on a rapid learning journey through data science concepts and tech
 
 ## Resources
 
+- [Google](https://google.com/)
 - [ChatGPT](https://chatgpt.com/)
 - [Kaggle](https://kaggle.com)
 - [Edureka - Data Science Full Course 12 Hours](https://www.youtube.com/live/xiEC5oFsq2s?si=XvMpLoVsGGT80Qq6)
