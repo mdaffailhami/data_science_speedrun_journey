@@ -15,6 +15,7 @@ I'm embarking on a rapid learning journey through data science concepts and tech
 - [mathantics - Algebra Basics](https://youtube.com/playlist?list=PL4mRaHZim4UQPTOTHTe6uKnRoGSo5GuP4&si=3gDJEYgoPwYasVf2)
 - [codebasics - SQL Tutorial For Beginners](https://youtu.be/Rm0xH2Vpfi0?si=7QgTZjdXr5CGO4XF)
 - [Keith Galli - Complete Python Pandas Data Science Tutorial!](https://youtu.be/2uvysYbKdjM?si=UQLWEDjXom2Y4WFK)
+- [Alex The Analyst - Group By and Aggregate Functions in Pandas](https://youtu.be/VRmXto2YA2I?si=xa1j8UNM2pzsM6K9)
 
 ## License
 
