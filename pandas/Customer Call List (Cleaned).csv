@@ -1,0 +1,22 @@
+id,first_name,last_name,phone_number,address,address,address,paying_customer,do_not_contact
+,,,,street,state,zip,,
+1001,Frodo,Baggins,123-545-5421,123 Shire Lane, Shire,,True,False
+1002,Abed,Nadir,123-643-9775,93 West Main Street,,,False,True
+1003,Walter,White,706-695-0392,298 Drugs Driveway,,,False,False
+1004,Dwight,Schrute,123-543-2345,980 Paper Avenue, Pennsylvania, 18503,True,True
+1005,Jon,Snow,876-678-3469,123 Dragons Road,,,True,False
+1006,Ron,Swanson,304-762-2467,768 City Parkway,,,True,True
+1007,Jeff,  Winger,,1209 South Street,,,False,False
+1008,Sherlock,Holmes,876-678-3469,98 Clue Drive,,,False,False
+1009,Gandalf,,,123 Middle Earth,,,True,False
+1010,Peter,Parker,123-545-5421,25th Main Street, New York,,True,False
+1011,Samwise,Gamgee,,612 Shire Lane, Shire,,True,False
+1012,Harry,Potter,706-695-0392,2394 Hogwarts Avenue,,,True,False
+1013,Don,Draper,123-543-2345,2039 Main Street,,,True,False
+1014,Leslie,Knope,876-678-3469,343 City Parkway,,,True,False
+1015,Toby,Flenderson,304-762-2467,214 HR Avenue,,,False,False
+1016,Ron,Weasley,123-545-5421,2395 Hogwarts Avenue,,,False,False
+1017,Michael ,Scott,123-643-9775,121 Paper Avenue, Pennsylvania,,True,False
+1018,Clark,Kent,706-695-0392,3498 Super Lane,,,True,False
+1019,Creed,Braton,,,,,False,True
+1020,Anakin,Skywalker,876-678-3469,910 Tatooine Road, Tatooine,,True,False
